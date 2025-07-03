@@ -5,17 +5,27 @@
   text-align: center;
 }
 
-.dropdown-container {
+.container {
   display: flex;
 }
 
-.left-dropDownPanel {
+.left-container {
   margin: 20px;
 }
 
-.right-dropDownPanel {
+.left-dropDownPanel {
+  margin-bottom: 15px;
+}
+
+.right-container {
   margin: 20px;
 }
+.right-dropDownPanel {
+  margin-bottom: 15px;
+}
+
+
+
 
 
 @media (prefers-reduced-motion: no-preference) {

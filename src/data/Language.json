@@ -1,0 +1,36 @@
+{
+    "lists": [
+        {
+            "id": "en",
+            "name": "English"
+        },
+        {
+            "id": "es",
+            "name": "Spanish"
+        },
+        {
+            "id": "fr",
+            "name": "French"
+        },
+        {
+            "id": "nl",
+            "name": "Dutch"
+        },
+        {
+            "id": "de",
+            "name": "German"
+        },
+        {
+            "id": "hi",
+            "name": "Hindi"
+        },
+        {
+            "id": "it",
+            "name": "Italian"
+        },
+        {
+            "id": "bn",
+            "name": "Bengali"
+        }
+    ]
+}
